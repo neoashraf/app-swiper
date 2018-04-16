@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  public slides = [
+    'First slide',
+    'Second slide',
+    'Third slide',
+    'Fourth slide',
+    'Fifth slide',
+    'Sixth slide'
+  ];
 }
